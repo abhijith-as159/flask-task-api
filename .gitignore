@@ -1,0 +1,7 @@
+Venv/
+__pycache__
+*.db
+*.__pycache__
+.env
+.postman/
+postman/globals/workspace.globals.yaml
